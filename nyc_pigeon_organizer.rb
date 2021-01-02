@@ -43,6 +43,7 @@ def nyc_pigeon_organizer(data)
       # p first_a
       p "k: #{k} type: #{k.class}"
       p "v: #{v} type: #{v.class}"
+      binding.pry
     }
 
     # p "first_a: #{first_a}"
