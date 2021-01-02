@@ -1,3 +1,5 @@
+require 'pry'
+
 p_data = {
   color: {
     purple: ['Theo', 'Peter Jr.', 'Lucky'],
